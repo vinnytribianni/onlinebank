@@ -105,7 +105,7 @@ public class HomeEquityLoan {
                 startYear = loanInfo.nextInt();
                 
                 System.out.println("");
-                System.out.println("Student Loan Created. Go to open current loan to view amortization schedule. Exiting...");
+                System.out.println("Home Equity Loan Created. Go to open current loan to view amortization schedule. Exiting...");
             }
             else if (selection == 2) {
                       
